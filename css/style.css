@@ -37,3 +37,14 @@ section>article>div#jumbo{
     text-align: center;
     font-size: 12px;
   }
+
+
+ /* Urunler Sekmesi */ 
+
+ .urunler {
+     padding-top:30px ;
+ }
+ hr.hr1 {
+     width: 300px;
+     border: 3px solid #434444 ; 
+ }
