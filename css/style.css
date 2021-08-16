@@ -26,6 +26,12 @@ section>article>div#jumbo{
     border-radius: 30px;
 }
 
+hr.hr1 {
+    width: 300px;
+    border: 3px solid #ffffff ; 
+}
+
+
 /* Footer */
 .footer {
     position: fixed;
@@ -44,7 +50,7 @@ section>article>div#jumbo{
  .urunler {
      padding-top:30px ;
  }
- hr.hr1 {
+ hr.hr2 {
      width: 300px;
      border: 3px solid #434444 ; 
  }
