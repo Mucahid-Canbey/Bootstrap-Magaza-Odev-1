@@ -14,7 +14,7 @@ ul#navbar > li>a{
 /* jumbotron */
 section>article>div{
    margin: 30px 0px 0px 0px;
-    
+   border-radius: 30px;
 }
 section>article>div#jumbo>ul{
 
@@ -25,3 +25,14 @@ section>article>div#jumbo>ul{
 section>article>div#jumbo{
     border-radius: 30px;
 }
+
+/* Footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(61, 57, 57);
+    color: white;
+    text-align: center;
+  }
