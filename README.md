@@ -1,4 +1,4 @@
-# Bootstrap-Odev-1
+# Kodluyoruz Bootstrap Ödev-1
 Bootstrap ile müzik aletleri satan bir site tasarladım
 
 ---
