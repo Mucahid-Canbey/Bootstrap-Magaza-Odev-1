@@ -54,3 +54,12 @@ hr.hr1 {
      width: 300px;
      border: 3px solid #434444 ; 
  }
+
+div.card {
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border: solid 1px rgb(231, 226, 226);
+}
+div.card>div.card-body>a.btn-primary{
+    background-color: rgb(68, 173, 65);
+}
