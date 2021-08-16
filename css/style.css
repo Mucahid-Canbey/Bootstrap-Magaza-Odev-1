@@ -10,3 +10,18 @@ header>nav.navbar>div>a{
 ul#navbar > li>a{
     font-size: 18px;
 }
+
+/* jumbotron */
+section>article>div{
+   margin: 30px 0px 0px 0px;
+    
+}
+section>article>div#jumbo>ul{
+
+    border-radius: 30px;
+    font-weight:bold;
+    padding: 20px 100px 20px 100px;
+}
+section>article>div#jumbo{
+    border-radius: 30px;
+}
