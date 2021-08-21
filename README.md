@@ -1,5 +1,8 @@
-# Kodluyoruz Bootstrap Ödev-1
-Bootstrap ile müzik aletleri satan bir site tasarladım
+## Müzik Mağaza Tasarım
+
+## ![Image](https://r.resimlink.com/QvqbJzUg.png)
+
+Patika.dev'in bootstrap dersinde yeni öğrendiğim bilgiler ile Müzik aletleri satan mağaza tasarladım
 
 ---
 
@@ -12,7 +15,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın.
 
 ```
-https://github.com/Mucahid-Canbey/Bootstrap-Odev-1.git
+https://github.com/Mucahid-Canbey/Bootstrap-Magaza-Odev-1.git
 ```
 
 ## Usage
